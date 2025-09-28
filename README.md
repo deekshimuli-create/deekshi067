@@ -1,11 +1,15 @@
-## Clone of Clone of Clone of AyuDiet
+Ayudiet 
+Nutrient analysis for ayurvedic diet plan
 
-This app was created using https://getmocha.com.
-Need help or want to join the community? Join our [Discord](https://discord.gg/shDEGBSe2d).
 
-To run the devserver:
-```
-npm install
-npm run dev
-```
-"# Ayudiet-app" 
+1. Clone the repo
+2. Install dependencies
+3. Run the project
+
+
+- easy UI and accessible
+- receipe and disease identification
+
+## Author
+Muli Deekshitha
+
