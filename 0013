@@ -1,0 +1,5 @@
+
+DELETE FROM recipes WHERE title IN (
+  'Mung Bean Khichdi', 'Carrot Halwa', 'Turmeric Milk', 'Ashwagandha Ladoo', 
+  'Spinach Dal', 'Coconut Chutney', 'Ginger Tea', 'Quinoa Upma'
+);

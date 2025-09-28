@@ -1,0 +1,3 @@
+
+-- Remove the additional batch of recipes
+DELETE FROM recipes WHERE id > 14;

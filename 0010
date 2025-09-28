@@ -1,0 +1,3 @@
+
+-- Remove all inserted recipes (keeping only the original structure)
+DELETE FROM recipes WHERE id > 0;

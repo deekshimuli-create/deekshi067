@@ -1,0 +1,11 @@
+
+DROP TABLE reviews;
+DROP TABLE notifications;
+DROP TABLE user_groups;
+DROP TABLE community_groups;
+DROP TABLE progress_entries;
+DROP TABLE meal_plans;
+DROP TABLE recipes;
+DROP TABLE food_items;
+DROP TABLE dosha_assessments;
+DROP TABLE users;

@@ -1,0 +1,9 @@
+
+-- Remove the added recipe data
+DELETE FROM recipes WHERE title IN (
+  'Ayurvedic Kitchari',
+  'Cooling Cucumber Raita', 
+  'Warming Ginger Tea',
+  'Nourishing Ojas Smoothie',
+  'Detox Mung Bean Soup'
+);

@@ -1,0 +1,8 @@
+
+DROP INDEX idx_consultations_doctor;
+DROP INDEX idx_consultations_user;
+DROP INDEX idx_doctors_rating;
+DROP INDEX idx_doctors_specialization;
+DROP INDEX idx_doctors_region;
+DROP TABLE consultations;
+DROP TABLE doctors;

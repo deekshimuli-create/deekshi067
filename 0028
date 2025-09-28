@@ -1,0 +1,3 @@
+
+-- Remove all additional recipes beyond the original ones
+DELETE FROM recipes WHERE id > 25;

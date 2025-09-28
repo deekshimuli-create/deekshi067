@@ -1,0 +1,3 @@
+
+DROP INDEX idx_disease_assessments_user_id;
+DROP TABLE disease_assessments;

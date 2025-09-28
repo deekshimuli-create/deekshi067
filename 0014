@@ -1,0 +1,7 @@
+
+DROP TABLE user_yoga_progress;
+DROP TABLE yoga_asanas;
+DROP TABLE herbal_seeds;
+DROP TABLE user_book_access;
+DROP TABLE bams_books;
+DROP TABLE face_packs;

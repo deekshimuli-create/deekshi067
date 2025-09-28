@@ -1,0 +1,5 @@
+
+DELETE FROM yoga_asanas;
+DELETE FROM herbal_seeds;
+DELETE FROM bams_books;
+DELETE FROM face_packs;

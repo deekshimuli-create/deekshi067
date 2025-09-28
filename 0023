@@ -1,0 +1,11 @@
+
+-- Remove new columns from recipes table
+ALTER TABLE recipes DROP COLUMN health_benefits;
+ALTER TABLE recipes DROP COLUMN preparation_tips;
+
+-- Remove new columns from food_items table  
+ALTER TABLE food_items DROP COLUMN precautions;
+ALTER TABLE food_items DROP COLUMN health_benefits;
+ALTER TABLE food_items DROP COLUMN usage_tips;
+ALTER TABLE food_items DROP COLUMN preparation_instructions;
+ALTER TABLE food_items DROP COLUMN ingredients;

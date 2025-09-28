@@ -1,0 +1,4 @@
+
+-- Remove sample data
+DELETE FROM recipes WHERE created_by IN ('Dr. Priya Sharma', 'Chef Ramesh Kumar', 'Chef Meera Nair', 'Dr. Anjali Patel', 'Chef Suresh Menon');
+DELETE FROM doctors WHERE name IN ('Dr. Priya Sharma', 'Dr. Ramesh Kumar', 'Dr. Meera Nair', 'Dr. Anjali Patel', 'Dr. Suresh Menon', 'Dr. Kavitha Reddy', 'Dr. Arjun Singh', 'Dr. Preeti Joshi', 'Dr. Radha Krishnan', 'Dr. Neha Gupta');
